@@ -1,0 +1,33 @@
+<textarea cols=100 rows=32>
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Grzegorz Smyczko 2G </title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="smyczko_z23.css"/>
+</head>
+<body>
+<p id="pogrubienie_smyczko"> Smyczko <br>
+  Z programowaniem jak z budową katedry, budujesz,budujesz a potem się modlisz (żeby wszystko działało) </p>
+<p id="pochylona_smyczko"> Smyczko <br>
+  Na świecie jest 10 rodzajów ludzi: ci, którzy rozumieją system binarny i ci, którzy go nie rozumieją </p>
+<p id="index_gorny_smyczko"> Smyczko <br>
+  Jedna z korporacji branży IT opracowała dyski twarde o nieskończonej pojemności. <br>
+  Mają trafić na rynek jak tylko skończą się formatować </p>
+<p id="index_dolny_smyczko"> Smyczko <br>
+  Tabliczka w dziale komputerowego wsparcia: <br>
+  - Teoria - to kiedy wiecie wszystko, lecz nic nie pracuje. <br>
+  - Praktyka - to kiedy wszystko pracuje, lecz nikt nie wie dlaczego. <br>
+  - W tym miejscu łączymy teorię i praktykę - nic nie pracuje i nikt nie wie dlaczego! </p>
+<p id="mono_smyczko"> Smyczko <br>
+  - No, takiego wirusa to ja jeszcze nie miałem! - rzekł zięć informatyk, widząc teściową przy swoim komputerze </p>
+<p id="powiekszenie_smyczko"> Smyczko <br>
+  Przychodzi informatyk do apteki i mówi: <br>
+  - Poproszę witaminę C++ </p>
+<p id="pomniejszenie_smyczko"> Smyczko <br>
+  - Czym się różni nowa wersja programu od starej? <br>
+  - Tym, że poprawiono w niej stare błędy i zrobiono nowe </p>
+</body>
+</html>
+<!-- Grzegorz Smyczko 2G -->
+</textarea>
