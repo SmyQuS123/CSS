@@ -1,2 +1,21 @@
-<html>
-</html>
+div {
+  font-size: 20mm;
+  width: 620px;
+  background-color: green;
+}
+
+div#blok1_kasprowicz:hover {
+  background-color: gold;
+  font-size: 21mm;
+}
+
+div#blok2_kasprowicz:hover {
+  background-color: yellow;
+  font-size: 21mm;
+}
+
+div#blok3_kasprowicz:hover {
+  background-color: #FF0000;
+  font-size: 21mm;
+}
+/* hover; - zmiana stylu po najechaniu myszką */
