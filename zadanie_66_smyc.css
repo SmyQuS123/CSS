@@ -1,1 +1,29 @@
+p {
+color: gray;
+font-size: 15pt;
+}
 
+p:first-line {
+color: green;
+font-size: 22pt;
+font-weight: bold;
+}
+
+p:before {
+content: "content";
+font-size: 18pt;
+font-style: italic;
+font-weight: bold;
+}
+
+p:after {
+content: "content";
+font-size: 14pt;
+font-style: italic;
+font-weight: bold;
+}
+
+p:first-letter {
+color: purple;
+font-size: 97pt;
+}
