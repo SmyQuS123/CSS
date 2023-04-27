@@ -1,2 +1,18 @@
-<p lang="pl">Jak się masz</p>
-<p lang="en">How are you</p>
+body {
+background-color: gold;
+}
+
+p {
+font-size: 8mm;
+color: rgb(0,0,255);
+}
+
+p:lang(pl) {
+font-size: 9mm;
+color: rgb(192,192,192);
+}
+
+p:lang(en) {
+font-size: 13mm;
+color: rgb(0,255,0);
+}
