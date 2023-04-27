@@ -1,2 +1,20 @@
-<html>
-</html>
+a {
+font-size: 18pt;
+text-decoration: none;
+}
+
+a:link {
+color: green;
+}
+
+a:visited {
+color: purple;
+}
+
+a:hover {
+color: red;
+text-decoration: underline;
+}
+div {
+color: gray;
+}
